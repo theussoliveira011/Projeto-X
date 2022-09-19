@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "testegit",
   "version": "1.0.0",
   "description": "",
@@ -17,4 +18,9 @@
     "url": "https://github.com/theussoliveira011/Projeto-X/issues"
   },
   "homepage": "https://github.com/theussoliveira011/Projeto-X#readme"
+=======
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+>>>>>>> dev
 }
